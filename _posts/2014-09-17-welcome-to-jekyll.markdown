@@ -18,7 +18,7 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Check out the [CoVisCoWorking docs][CoVisCoWorking] for more info on how to get the most out of CoVis CoWorking. File all bugs/feature requests at [CoVis CoWorking’s GitHub repo][CoVisCoWorking-gh]. If you have questions, you can ask them on [CoVis CoWorking’s dedicated Help repository][www.cnn.com].
+Check out the [CoVisCoWorking docs][CoVisCoWorking] for more info on how to get the most out of CoVis CoWorking. File all bugs/feature requests at [CoVis CoWorking’s GitHub repo][CoVisCoWorking-gh]. If you have questions, you can ask them on [CoVis CoWorking’s dedicated Help repository][http://www.cnn.com].
 
 [CoVisCoWorking]:      http://covisco.com
 [CoVisCoWorking-gh]:   https://github.com/covisco CoWorking/CoVis CoWorking
